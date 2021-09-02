@@ -1,4 +1,6 @@
 ### Well hello there!
+jeremyimilligan
+this is my spoon-knife
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
